@@ -1,0 +1,48 @@
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.exe.config
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.exe
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.pdb
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.xml
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbprojResolveAssemblyReference.cache
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Menu.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Resources.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbproj.GenerateResource.Cache
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbproj.CoreCompileInputs.cache
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.exe
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.xml
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.pdb
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Signup.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Wrongsignup.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Rent.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Daterent.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Buy.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.printrentforcustomer.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Proprietor.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Datebuy.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Printbuyforcustomers.resources
+C:\Users\kavva\source\repos\rentandbuy\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Employ.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.exe.config
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.exe
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.pdb
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\bin\Debug\texnologia_logismikoy.xml
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbprojAssemblyReference.cache
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Buy.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Datebuy.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Daterent.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Employ.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Menu.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Resources.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Printbuyforcustomers.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Printrentforcustomer.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Proprietor.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Rent.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Signup.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.Wrongsignup.resources
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbproj.GenerateResource.cache
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbproj.CoreCompileInputs.cache
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.vbproj.CopyComplete
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.exe
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.xml
+D:\New folder\                        \CEID\Τεχνολογία Λογισμικού\Παραδοτέο 5\Project Code\texnologia_logismikoy\obj\Debug\texnologia_logismikoy.pdb
